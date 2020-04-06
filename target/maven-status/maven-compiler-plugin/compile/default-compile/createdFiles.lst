@@ -1,0 +1,10 @@
+com\mycompany\assignmentsoapservice\exceptions\PreexistingEntityException.class
+com\mycompany\assignmentsoapservice\Library.class
+com\mycompany\assignmentsoapservice\Library_.class
+com\mycompany\assignmentsoapservice\JAXRSConfiguration.class
+com\mycompany\assignmentsoapservice\resources\JavaEE8Resource.class
+com\mycompany\assignmentsoapservice\LibraryJpaController.class
+com\mycompany\assignmentsoapservice\exceptions\IllegalOrphanException.class
+com\mycompany\assignmentsoapservice\exceptions\NonexistentEntityException.class
+com\mycompany\assignmentsoapservice\handler\ErrorHandler.class
+Services\CrudLibrary.class
